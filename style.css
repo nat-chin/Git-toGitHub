@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+barbox {
+    margin-top: auto;
+    padding: 0;
+    overflow: inherit;
+
+}
+/* I don't know what I'm writting , I am suck at css */
